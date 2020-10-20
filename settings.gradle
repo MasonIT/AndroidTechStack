@@ -1,2 +1,10 @@
+include ':multiPlatform'
+include ':dalvik'
+include ':ndk'
+include ':performance'
+include ':struct'
+include ':openSource'
+include ':ui'
+include ':basic'
 include ':app'
 rootProject.name = "Android-Learning-Notes"
