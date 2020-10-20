@@ -7,4 +7,4 @@ include ':openSource'
 include ':ui'
 include ':basic'
 include ':app'
-rootProject.name = "Android-Learning-Notes"
+rootProject.name = "AndroidTechStack"
