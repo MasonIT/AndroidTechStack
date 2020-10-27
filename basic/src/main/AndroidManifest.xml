@@ -2,4 +2,33 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.punkstudio.basic">
 
+    <application>
+        <activity
+            android:name=".activity.Activity1"
+            android:screenOrientation="sensor"/>
+<!--        android:taskAffinity="com.punkstudio.basic1"/>-->
+
+        <activity
+            android:name=".activity.Activity2"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.DayNight.Dialog" />
+        <activity
+            android:name=".activity.Activity3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.Activity4"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.punkstudio.basic.activity4" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.punkstudio.basic.activity4.category" />
+            </intent-filter>
+        </activity>
+        <service
+            android:name=".activity.MyService"
+            android:enabled="true"
+            android:exported="true"/>
+    </application>
+
 </manifest>

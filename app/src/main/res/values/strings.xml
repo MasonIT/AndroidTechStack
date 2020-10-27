@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidTechStack</string>
+    <string name="activity">Activity</string>
+    <string name="service">service</string>
 </resources>

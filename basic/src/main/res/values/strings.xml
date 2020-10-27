@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="i_m_activity1">I\'m Activity1</string>
+    <string name="jump_to_activity2">jump to Activity2</string>
+    <string name="i_m_activity2">I\'m Activity2</string>
+    <string name="i_m_activity3">I\'m Activity3</string>
+    <string name="i_m_activity4">I\'m Activity4</string>
+    <string name="back">back</string>
+    <string name="implicit_jump">implicit jump</string>
+</resources>
