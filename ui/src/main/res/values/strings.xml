@@ -1,0 +1,1936 @@
+<resources>
+    <string name="my_txt">{
+	"filters": [],
+	"validFilters": [{
+			"filterTypeId": "",
+			"featureType": "Package",
+			"filterValues": [{
+					"value": "辅助驾驶套件",
+					"featureCode": "001162"
+				},
+				{
+					"value": "豪华套件",
+					"featureCode": "XPLUSS"
+				},
+				{
+					"value": "高性能套装",
+					"featureCode": "001150"
+				}
+			],
+			"filterRanges": []
+		},
+		{
+			"filterTypeId": "",
+			"featureType": "Rims",
+			"filterValues": [{
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"featureCode": "R14B"
+				},
+				{
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"featureCode": "XPFWHE"
+				},
+				{
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"featureCode": "001147"
+				}
+			],
+			"filterRanges": []
+		},
+		{
+			"filterTypeId": "",
+			"featureType": "Color",
+			"filterValues": [{
+					"value": "Moon",
+					"featureCode": "72700"
+				},
+				{
+					"value": "Thunder",
+					"featureCode": "72800"
+				},
+				{
+					"value": "Midnight",
+					"featureCode": "72300"
+				},
+				{
+					"value": "Magnesium",
+					"featureCode": "72900"
+				},
+				{
+					"value": "Void",
+					"featureCode": "1900"
+				},
+				{
+					"value": "Snow",
+					"featureCode": "70700"
+				}
+			],
+			"filterRanges": []
+		},
+		{
+			"filterTypeId": "",
+			"featureType": "Upholstery",
+			"filterValues": [{
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"featureCode": "RF8000"
+				},
+				{
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"featureCode": "RFA000"
+				}
+			],
+			"filterRanges": []
+		},
+		{
+			"filterTypeId": "",
+			"featureType": "Model",
+			"filterValues": [{
+				"value": "Polestar 2",
+				"featureCode": "534"
+			}],
+			"filterRanges": []
+		}
+	],
+	"cars": [{
+			"title": "Polestar 2 Moon 2021",
+			"pno34": "534EDPI0E16172700RF8000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72700",
+					"value": "Moon",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Thunder 2021",
+			"pno34": "534EDPI0E16172800RFA000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72800",
+					"value": "Thunder",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72800.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Midnight 2021",
+			"pno34": "534EDPI0E16172300RF8000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72300",
+					"value": "Midnight",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72300.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Moon 2021",
+			"pno34": "534EDPI0E16172700RF8000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72700",
+					"value": "Moon",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Magnesium 2021",
+			"pno34": "534EDPI0E16172900RF8000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72900",
+					"value": "Magnesium",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Void 2021",
+			"pno34": "534EDPI0E16101900RFA000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "1900",
+					"value": "Void",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/1900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Void 2021",
+			"pno34": "534EDPI0E16101900RF8000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "1900",
+					"value": "Void",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/1900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Snow 2021",
+			"pno34": "534EDPI0E16170700RFA000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "70700",
+					"value": "Snow",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/70700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Snow 2021",
+			"pno34": "534EDPI0E16170700RF8000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "70700",
+					"value": "Snow",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/70700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Magnesium 2021",
+			"pno34": "534EDPI0E16172900RF8000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72900",
+					"value": "Magnesium",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Midnight 2021",
+			"pno34": "534EDPI0E16172300RF8000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72300",
+					"value": "Midnight",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72300.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Void 2021",
+			"pno34": "534EDPI0E16101900RFA000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "1900",
+					"value": "Void",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/1900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Thunder 2021",
+			"pno34": "534EDPI0E16172800RF8000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72800",
+					"value": "Thunder",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72800.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Magnesium 2021",
+			"pno34": "534EDPI0E16172900RFA000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72900",
+					"value": "Magnesium",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Snow 2021",
+			"pno34": "534EDPI0E16170700RF8000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "70700",
+					"value": "Snow",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/70700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Moon 2021",
+			"pno34": "534EDPI0E16172700RF8000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72700",
+					"value": "Moon",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Thunder 2021",
+			"pno34": "534EDPI0E16172800RFA000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72800",
+					"value": "Thunder",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72800.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Void 2021",
+			"pno34": "534EDPI0E16101900RFA000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "1900",
+					"value": "Void",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/1900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Magnesium 2021",
+			"pno34": "534EDPI0E16172900RFA000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72900",
+					"value": "Magnesium",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Snow 2021",
+			"pno34": "534EDPI0E16170700RFA000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "70700",
+					"value": "Snow",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/70700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Magnesium 2021",
+			"pno34": "534EDPI0E16172900RFA000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72900",
+					"value": "Magnesium",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Thunder 2021",
+			"pno34": "534EDPI0E16172800RF8000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72800",
+					"value": "Thunder",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72800.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Thunder 2021",
+			"pno34": "534EDPI0E16172800RFA000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72800",
+					"value": "Thunder",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72800.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Snow 2021",
+			"pno34": "534EDPI0E16170700RF8000 001150001162XPLUSSXPFWHE",
+			"TotalPrice": "￥460,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001150",
+					"value": "高性能套装",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPFWHE",
+					"value": "20\" Y型4辐黑色抛光锻造铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/XPFWHE.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "70700",
+					"value": "Snow",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/70700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Snow 2021",
+			"pno34": "534EDPI0E16170700RFA000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "70700",
+					"value": "Snow",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/70700.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RFA000",
+					"value": "Slate/Charcoal Interior With Slate Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RFA000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Void 2021",
+			"pno34": "534EDPI0E16101900RF8000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "1900",
+					"value": "Void",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/1900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Midnight 2021",
+			"pno34": "534EDPI0E16172300RF8000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72300",
+					"value": "Midnight",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72300.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Thunder 2021",
+			"pno34": "534EDPI0E16172800RF8000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72800",
+					"value": "Thunder",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72800.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Void 2021",
+			"pno34": "534EDPI0E16101900RF8000 001162XPLUSS001147",
+			"TotalPrice": "￥425,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "001147",
+					"value": "20\" V型4辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/001147.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "1900",
+					"value": "Void",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/1900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		},
+		{
+			"title": "Polestar 2 Magnesium 2021",
+			"pno34": "534EDPI0E16172900RF8000 001162XPLUSSR14B00",
+			"TotalPrice": "￥418,000.00",
+			"image": "",
+			"component": [{
+					"code": "001162",
+					"value": "辅助驾驶套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "XPLUSS",
+					"value": "豪华套件",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Package"
+				},
+				{
+					"code": "R14B",
+					"value": "19\" V型5辐黑色钻石切割铝合金轮毂",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/R14B.png",
+					"priceDisplay": "0.00",
+					"type": "Rims"
+				},
+				{
+					"code": "ED",
+					"value": "P8M",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Engine"
+				},
+				{
+					"code": "72900",
+					"value": "Magnesium",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/72900.png",
+					"priceDisplay": "0.00",
+					"type": "Color"
+				},
+				{
+					"code": "RF8000",
+					"value": "Charcoal Interior With Charcoal Weave-Tech Seats",
+					"price": 0.0,
+					"image": "https://cdn-prd.china.polestar.com/preconfigured-cars/icon/RF8000.png",
+					"priceDisplay": "0.00",
+					"type": "Upholstery"
+				},
+				{
+					"code": "534",
+					"value": "Polestar 2",
+					"price": 0.0,
+					"priceDisplay": "0.00",
+					"type": "Model"
+				}
+			]
+		}
+	]
+}</string>
+</resources>

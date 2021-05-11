@@ -7,4 +7,8 @@ include ':openSource'
 include ':ui'
 include ':basic'
 include ':app'
+include ':kotlin'
+include ':lib_daemon'
 rootProject.name = "AndroidTechStack"
+include ':java'
+include ':aidl'

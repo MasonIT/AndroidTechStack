@@ -27,4 +27,23 @@
         android:id="@+id/service"/>
 
 
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/service"
+        android:text="@string/view"
+        android:id="@+id/view"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/ui"
+        android:text="@string/ui"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
